@@ -1,42 +1,49 @@
+<div align="center">
 
-<!-- 🔥 PREMIUM PURPLE HEADER -->"header" (https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:b721ff&height=220&text=Zener-ui&fontSize=42&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Bug%20Fixer&descAlignY=60&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:059669&height=220&section=header&text=David&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20WordPress%20Expert%20%E2%9C%A6%20CRM%20Automator&descAlignY=58&descAlign=50&descSize=18&descColor=a7f3d0" />
 
-<br><!-- ⚡ TYPING ANIMATION -->""Typing SVG" (https://readme-typing-svg.herokuapp.com?color=B721FF&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;I+fix+HTML+%26+CSS+bugs;I+build+responsive+websites;Open+for+freelance+work)" (https://git.io/typing-svg)
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%92%BB;WordPress+%26+CRM+Specialist+%E2%9A%A1;Mathematics+%26+Physics+Enthusiast+%F0%9F%A7%AE;Building+High-Converting+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
-⚡ What I Do
+<br/><br/>
 
-- Fix broken HTML, CSS & React code
-- Build responsive websites
-- Optimize performance
+![Profile Views](https://komarev.com/ghpvc/?username=DavidCodes&color=10b981&style=for-the-badge&label=Profile+Views)
 
----
-
-🧠 Stack
-
-"HTML" (https://img.shields.io/badge/HTML-Expert-6a11cb?style=for-the-badge)
-"CSS" (https://img.shields.io/badge/CSS-Strong-b721ff?style=for-the-badge)
-"JavaScript" (https://img.shields.io/badge/JavaScript-Good-8a2be2?style=for-the-badge)
-"React" (https://img.shields.io/badge/React-Learning-9f3cff?style=for-the-badge)
+</div>
 
 ---
 
-📊 Stats
+<div align="center">
 
-"Profile Views" (https://komarev.com/ghpvc/?username=Zener-ui&color=b721ff)
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Zener-ui&show_icons=true&theme=tokyonight)
+## 👋 Hi, I'm David!
 
----
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB86FC&width=435&lines=Hi%2C+I'm+David!+;+Aspiring+Software+Engineer;Exploring+AI%2C+%F0%9F%A4%96+and+modern+stack;Turning+ideas+into+efficient+code;Open+for+projects+%26+collab+work+)](https://git.io/typing-svg)
+> ⚡ *"Bridging the gap between robust backend logic and seamless frontend experiences."*
 
----
-
-📫 Contact
-
-- Email: blasterbot9@gmail.com
+I am a **Full-Stack Developer** and **Freelance Professional** specializing in **WordPress development** and **CRM automation**. When I'm not building digital platforms, I'm usually diving deep into **Mathematics and Physics** or exploring the latest in **AI**.
 
 ---
 
-⭐ Open to freelance work
+<div align="center">
+
+## 🧠 Currently Learning & Exploring
+
+<br/>
+
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-Building-10b981?style=for-the-badge&labelColor=0f172a)
+![CRM Automation](https://img.shields.io/badge/CRM%20Automation-Expert-10b981?style=for-the-badge&labelColor=0f172a)
+![Math & Physics](https://img.shields.io/badge/Math%20%26%20Physics-Deep%20Dive-059669?style=for-the-badge&labelColor=0f172a)
+![WordPress](https://img.shields.io/badge/WordPress-Freelancing-059669?style=for-the-badge&labelColor=0f172a)
+![GenAI](https://img.shields.io/badge/GenAI-Exploring-34d399?style=for-the-badge&labelColor=0f172a)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+<br/>
